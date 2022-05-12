@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tbn-auth": {
+      "hosting": {
+        "tbn-auth": [
+          "tourby"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tbn-auth"
+  }
+}
