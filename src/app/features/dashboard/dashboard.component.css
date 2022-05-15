@@ -23,8 +23,8 @@ mat-toolbar {
 
 .background {
   align-items: center;
-  background-image: url("/src/assets/mountains.png");
   box-sizing: border-box;
+  background-image: url("src/assets/mountains.png");
   display: flex;
   flex-direction: column;
   height: calc(100vh - 64px);
